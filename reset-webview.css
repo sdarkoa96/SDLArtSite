@@ -5,7 +5,7 @@
 
   These CSS rules will re-apply the default style settings for each of these classes that belong to the dom highlighter.
 
-  Please link `reset-webview.css` right after the main stylesheet (`style.css`) in `index.html` when applying custom styles in the project.
+  Please link `reset-webview.css` right after the main stylesheet (`style.css`) in `index.html` when applying custom styles in the project.   /
 */
 
 .luna-dom-highlighter-platform-mac {
